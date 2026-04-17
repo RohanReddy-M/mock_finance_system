@@ -1,0 +1,21 @@
+FinanceCore Bank Policy Manual
+
+Refund Policy:
+All refund requests must be submitted within 30 days of transaction.
+Refunds above Rs 50,000 require manager approval.
+Fraudulent transactions are refunded within 24 hours.
+
+Loan Policy:
+Personal loans require minimum credit score of 700.
+Business loans require 2 years of financial statements.
+Interest rates range from 8.5% to 14% annually.
+
+Compliance Policy:
+All transactions above Rs 10 lakh must be reported to RBI.
+KYC verification is mandatory for all new accounts.
+Suspicious transactions must be flagged within 2 hours.
+
+Employee Policy:
+Employees cannot access customer data without authorization.
+All data access is logged and audited quarterly.
+Violations result in immediate suspension pending investigation.
